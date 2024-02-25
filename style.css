@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Vina+Sans&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+
+
+
+  .container-fluid {
+    margin-top:-25px ;
+    display:inline-flex;
+    height:50px;
+    background-color:#cad2c5 ;
+    color:white;
+    justify-content: center;
+    padding:25px ;
+    position: relative;
+    background-image: url("./assets/github\ logo2\ \(1\).png");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-color: #2f3d46;       
+    background-position: 15px;
+ 
+    
+  }
+    
+.containera  {
+    display: inline-flex;
+    background-color: #353535;
+    margin-top: 45px;
+    margin-left: 100px;
+    border-radius: 15px;
+    
+}   
+
+.containerb {
+    display: inline-block;
+    background-color: #353535;
+    color:gray;
+    border-radius:10px ;
+    position:absolute;
+    margin-left: 15%;
+    padding: 8px;
+    margin-block-start:40px;
+}
+
+.containerc {
+    display: inline-flex;
+    background-color:  #353535;
+    border-radius: 10%;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 50%;
+}
+
+.containerd {
+    display: inline-block;
+    background-color: #353535;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 30%;
+}
+  
+  .containere {
+    display: inline-block;
+    background-color:  #353535;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 10%;
+}
+
+.containerf {
+    display: inline-flex;
+    background-color:  #353535;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 10%;
+    
+}  
+  
+
+
